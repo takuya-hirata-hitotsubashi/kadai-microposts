@@ -56,7 +56,8 @@ class MicropostsController extends Controller
      */
     public function show($id)
     {
-        //
+        //$microposts = $user->microposts()
+        //return view('microposts.microposts');
     }
 
     /**
